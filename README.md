@@ -1,6 +1,6 @@
 # Modern Animated Website
 
-### Weblink: [Live Website]()
+### Weblink: [Live Website](https://shubham321-ux.github.io/mordern-website/)
 
 This project is a modern animated website created using HTML, CSS, JavaScript, GSAP (GreenSock Animation Platform), and ScrollTrigger. The website features smooth animations triggered by scrolling, providing an engaging user experience.
 
@@ -12,7 +12,7 @@ Usage
 Contributing
 License
 ## Demo
-You can view a live demo of the website here ().
+You can view a live demo of the website here (https://shubham321-ux.github.io/mordern-website/).
 
 ## Features
 Modern and responsive design
