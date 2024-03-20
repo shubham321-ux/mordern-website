@@ -13,8 +13,6 @@ This project is a modern animated website created using HTML, CSS, JavaScript, G
 <img width="450px;" src="https://github.com/shubham321-ux/mordern-website/blob/main/modern%206.png?raw=true"/>
 
 
-
-
 ## Table of Contents
 Demo
 Features
