@@ -4,6 +4,14 @@
 
 This project is a modern animated website created using HTML, CSS, JavaScript, GSAP (GreenSock Animation Platform), and ScrollTrigger. The website features smooth animations triggered by scrolling, providing an engaging user experience.
 
+## Some Images:
+ <img width="450px;" src="https://github.com/shubham321-ux/Portfolio/blob/main/portfolio%201.png?raw=true"/>
+<img width="450px;" src="https://github.com/shubham321-ux/Portfolio/blob/main/portfolio%202.png?raw=true"/>
+<img width="450px;" src="https://github.com/shubham321-ux/Portfolio/blob/main/portfolio%203.png?raw=true"/>
+<img width="450px;" src="https://github.com/shubham321-ux/Portfolio/blob/main/portfolio%204.png?raw=true"/>
+
+
+
 ## Table of Contents
 Demo
 Features
